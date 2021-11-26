@@ -1,5 +1,5 @@
 Hello World with Python
-==========================
+===========================
 
 This is an amazing website using Python.  It takes the mosiac project from another repository and tries to make it into a website.
 Some worries I'm having are about people who's pictures I'm using to form the mosaics getting angry, but I have found that 
